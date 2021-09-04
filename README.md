@@ -1,4 +1,4 @@
-### Hi there 👋, I am Om Gurav..!!
+<h2>### Hi there 👋, I am Om Gurav..!!</h2>
 
 - 👨‍🎓 I’m a Computer Science Student.  
 - 🔭 I’m currently working with GDSC GESCOENGG as a Technical Member. 

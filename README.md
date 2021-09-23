@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/om-gurav-973b62215/">
   <img align="left" alt="Om's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://twitter.com/OmGurav17">
+  <img align="left" alt="Om Gurav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <a href="https://www.instagram.com/om.gurav19/">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Om's Instagram" width="22px" /></a>
 

@@ -14,12 +14,13 @@
 <br>
 
 - ⚜ Hi, I'm [Om Gurav].
+- 💼 Working with Wipro as a Project Engineer.
 - 👨‍🎓 I’m a Computer Science Student.  
-- 🔭 I’m currently working with GDSC GES-COENGG as a Technical Member. 
-- 🌱 I’m currently learning Python for AI/ML.
+- 🔭 I worked with GDSC GES-COENGG as a Technical Member. 
+- 🌱 I’m Java Full Stack Developer.
 - 💬 Ask me about anything. I am happy to help.
 - 📚 Passionate to learn new technologies.
-- 💼 any freelance work? do reach, [email](mailto:omgurav2001@gmail.com) :)
+
 
 <br>
 
